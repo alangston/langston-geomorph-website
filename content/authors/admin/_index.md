@@ -1,12 +1,11 @@
 ---
 title: Abby Langston
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Assistant Professor of Geomorphology
+bio: My research interests include rivers, rocks, and numerical modeling.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Rivers
+  - rocks
+  - modeling
 social:
   - icon: envelope
     icon_pack: fas
