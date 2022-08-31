@@ -35,8 +35,7 @@ education:
       year: 2006
 email: alangston@ksu.edu
 superuser: true
-user_groups:
-  - Faculty
+user_groups: []
 highlight_name: false
 ---
 Abby Langston is an assistant professor who studies fluvial geomorphology.
