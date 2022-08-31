@@ -12,4 +12,5 @@ education:
       year: 2016
 email: clayr22@ksu.edu
 superuser: false
+user_groups: []
 ---
