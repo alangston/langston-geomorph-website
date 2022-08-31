@@ -1,7 +1,7 @@
 ---
 title: Abby Langston
 role: Assistant Professor of Geomorphology
-avatar_filename: abby_saprolite.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include rivers, rocks, and numerical modeling.
 interests:
   - Rivers
