@@ -14,7 +14,7 @@ publication_types:
 authors:
   - Marcotte AL
   - Neudorf CM
-  - Langston Abigail L.(2021)
+  - Langston Abigail L.
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -38,7 +38,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2022-09-01T17:44:51.248Z
+date: 2021-09-01T17:44:51.248Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
