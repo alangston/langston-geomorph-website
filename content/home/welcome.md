@@ -4,7 +4,7 @@ widget_id: WELCOME
 headless: true
 weight: 10
 title: Geomorphology Research Group
-hero_media: welcome.jpg
+hero_media: mountain.jpg
 design:
   columns: "1"
   css_style: null
