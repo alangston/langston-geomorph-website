@@ -14,7 +14,7 @@ publication_types:
 authors:
   - Marcotte AL
   - Neudorf CM
-  - Langston Abigail L.
+  - Langston Abigail L
 author_notes:
   - Equal contribution
   - Equal contribution
