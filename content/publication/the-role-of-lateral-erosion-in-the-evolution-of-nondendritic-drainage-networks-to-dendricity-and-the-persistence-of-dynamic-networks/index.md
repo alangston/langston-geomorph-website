@@ -12,12 +12,12 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Kwang
+  - Kwang, JS, Langston, Abigail L, Parker, G
 author_notes:
+  - University of Illinois, Urbana-Champagne
   - Kansas State University
-  - Desert Research Institute
-  - Kansas State University
-publication: "*Earth Surface Processes and Landforms*"
+  - University of Illinois, Urbana-Champagne
+publication: "*Proceedings of the National Academy of Sciences*(118)"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -28,7 +28,7 @@ url_source: ""
 url_video: ""
 title: The role of lateral erosion in the evolution of nondendritic drainage
   networks to dendricity and the persistence of dynamic networks
-doi: " https://doi.org/10.1002/esp.5172"
+doi: " https://doi.org/10.1073/pnas.2015770118"
 featured: false
 tags:
   - Source Themes
