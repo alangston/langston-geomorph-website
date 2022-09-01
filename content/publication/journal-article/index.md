@@ -14,10 +14,9 @@ publication_types:
 authors:
   - Marcotte AL
   - Neudorf CM
-  - Langston Abigail L
+  - Langston Abigail L.(2021)
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Kansas State University
 publication: "*Earth Surface Processes and Landforms*"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
@@ -38,7 +37,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2021-09-01T17:44:51.248Z
+date: 2022-09-01T17:51:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
