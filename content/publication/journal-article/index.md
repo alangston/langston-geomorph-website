@@ -51,3 +51,34 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+---
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
+  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
+  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
+  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
+  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
+  eleifend gravida.
+slides: null
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+publication_types:
+  - "2"
+authors:
+  - Kwang, JS
+  - Langston Abigail L
+author_notes:
+  - Kansas State University
+  - Desert Research Institute
+  - Kansas State University
+publication: "*PNAS*"
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: The role of lateral erosion in the evolution of nondendritic drainage networks to dendricity and the persistence of dynamic networks
