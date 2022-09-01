@@ -12,10 +12,10 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Langston
+  - Langston, Abigail L
+  - Temme, Arnaud J
 author_notes:
   - Kansas State University
-  - Desert Research Institute
   - Kansas State University
 publication: "*Geophysical Research Letters* (46)"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
@@ -37,7 +37,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
   focal_point: ""
   preview_only: false
-date: 2022-09-01T18:13:54.220Z
+date: 2019-09-01T18:13:54.220Z
 url_slides: ""
 publishDate: 2021-01-01T00:00:00.000Z
 url_poster: ""
