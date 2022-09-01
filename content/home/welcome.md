@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: kayak_cliff1.jpg
+    image: welcome.jpg
 ---
 <br>
 
