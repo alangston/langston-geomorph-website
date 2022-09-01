@@ -1,11 +1,15 @@
 ---
-title: Publications
-
-# Listing view
+title: Lateral bedrock erosion and valley formation in a heterogeneously layered
+  landscape, Northeast Kansas
 view: citation
-
-# Optional banner image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+publication_types:
+  - "2"
+authors:
+  - Marcotte AL
+  - Neudorf CM
+  - Langston Abigail L.
+date: 2022-09-01T17:33:29.647Z
 ---
