@@ -1,9 +1,8 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: Clay Robertson and Olivia Groeber win Kale Fellowship
+date: 2022-09-01T14:10:29.757Z
 ---
-
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Congratulations to Clay Robertson and Olivia Groeber for winning the Kale Fellowship.
 
 <!--more-->
 
