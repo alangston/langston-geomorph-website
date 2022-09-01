@@ -14,7 +14,7 @@ publication_types:
 authors:
   - Marcotte AL
   - Neudorf CM
-  - Langston Abigail L
+  - Langston Abigail L.(2021)
 author_notes:
   - Equal contribution
   - Equal contribution
@@ -29,7 +29,7 @@ url_source: ""
 url_video: ""
 title: Lateral bedrock erosion and valley formation in a heterogeneously layered
   landscape, Northeast Kansas
-doi: ""
+doi: " https://doi.org/10.1002/esp.5172"
 featured: false
 tags:
   - Source Themes
