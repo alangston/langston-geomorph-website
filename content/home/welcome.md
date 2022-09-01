@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: RECENT-POSTS
+widget_id: WELCOME
 headless: true
 weight: 10
 title: Geomorphology Research Group
