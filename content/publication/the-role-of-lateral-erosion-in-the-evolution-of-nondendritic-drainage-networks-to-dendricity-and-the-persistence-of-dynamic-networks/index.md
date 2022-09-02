@@ -12,7 +12,9 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Kwang, JS, Langston, Abigail L, Parker, G
+  - Kwang JS
+  - Langston Abigail L
+  - Parker G
 author_notes:
   - University of Illinois, Urbana-Champagne
   - Kansas State University
