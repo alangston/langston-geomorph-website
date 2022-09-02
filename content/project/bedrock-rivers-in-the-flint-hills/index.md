@@ -6,6 +6,7 @@ draft: false
 featured: false
 authors:
   - admin
+  - Abbey Marcotte
 image:
   filename: featured.jpg
   focal_point: Smart
