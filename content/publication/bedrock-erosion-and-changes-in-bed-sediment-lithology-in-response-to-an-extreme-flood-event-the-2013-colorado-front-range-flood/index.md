@@ -5,6 +5,8 @@ publication_types:
   - "2"
 authors:
   - Langston
+  - Abigail L Temme
+  - Arnaud J
 doi: https://doi.org/10.1016/j.geomorph.2018.11.015
 publication: "*Geomorphology*(328)"
 draft: false
