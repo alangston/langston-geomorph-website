@@ -12,5 +12,5 @@ education:
       year: 2022
 superuser: false
 user_groups:
-  - Graduate Students
+  - Alumni
 ---
