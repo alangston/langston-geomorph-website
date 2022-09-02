@@ -7,8 +7,9 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Abby contemplating the complicated Kings Creek.
 ---
 T﻿his is about my work out at Konza prairie.
