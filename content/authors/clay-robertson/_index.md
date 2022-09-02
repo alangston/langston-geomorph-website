@@ -1,7 +1,7 @@
 ---
 title: Clay Robertson
-role: Graduate Student
-avatar_filename: avatar
+role: PhD Student
+avatar_filename: avatar.jpg
 social: []
 superuser: false
 user_groups:
