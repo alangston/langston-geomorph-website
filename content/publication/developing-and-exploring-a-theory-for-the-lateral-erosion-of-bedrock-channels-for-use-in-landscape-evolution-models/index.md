@@ -4,9 +4,11 @@ title: Developing and exploring a theory for the lateral erosion of bedrock
 publication_types:
   - "2"
 authors:
-  - Langston Abigail L Tucker GE
+  - Langston Abigail L 
+  - Tucker GE
 author_notes:
-  - Kansas State University University of Colorado
+  - Kansas State University
+  - University of Colorado
 doi: https://doi.org/10.5194/esurf-6-1-2018
 publication: "*Earth Surface Dynamics*(5)"
 draft: false
@@ -15,5 +17,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-09-02T18:21:36.500Z
+date: 2018-09-02T18:21:36.500Z
 ---
