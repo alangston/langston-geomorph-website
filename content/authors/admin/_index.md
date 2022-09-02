@@ -4,9 +4,9 @@ role: Assistant Professor of Geomorphology
 avatar_filename: avatar.jpg
 bio: My research interests include rivers, rocks, and numerical modeling.
 interests:
-  - Rivers
-  - rocks
-  - modeling
+  - rivers
+  - bedrock valleys
+  - numerical modeling
 social:
   - icon: envelope
     icon_pack: fas
@@ -16,7 +16,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/alangston
 organizations:
   - name: Kansas State University
 education:
@@ -33,7 +33,7 @@ education:
 email: alangston@ksu.edu
 superuser: true
 user_groups:
-  - Principle Investigators
+  - Principal Investigators
 highlight_name: false
 ---
 Abby Langston is an assistant professor who studies fluvial geomorphology.
