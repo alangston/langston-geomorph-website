@@ -12,8 +12,8 @@ url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
   - "2"
 authors:
-  - Langston, Abigail L
-  - Temme, Arnaud J
+  - Langston Abigail L
+  - Temme Arnaud J
 author_notes:
   - Kansas State University
   - Kansas State University
@@ -39,7 +39,7 @@ image:
   preview_only: false
 date: 2019-09-01T18:13:54.220Z
 url_slides: ""
-publishDate: 2021-01-01T00:00:00.000Z
+publishDate: 2019-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
