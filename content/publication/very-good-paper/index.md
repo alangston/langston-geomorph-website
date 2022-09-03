@@ -5,7 +5,7 @@ publication_types:
 authors:
   - langston abby 
   - langston crystal
-  - langston, marc
+  - langston marc
 publication: "*best journal ever*"
 draft: false
 featured: false
