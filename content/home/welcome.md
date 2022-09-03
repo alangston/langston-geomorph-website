@@ -3,14 +3,15 @@ widget: hero
 widget_id: WELCOME
 headless: true
 weight: 10
-title: Geomorphology Research Group
-hero_media: mountain.jpg
+title: Langston Geomorphology Research Group
+subtitle: coolest game in town
 design:
   columns: "1"
   css_style: null
   css_class: null
   background:
     image: kayak_cliff1.jpg
+hero_media: mountain.jpg
 ---
 <br>
 
