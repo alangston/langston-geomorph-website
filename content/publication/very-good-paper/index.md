@@ -1,7 +1,7 @@
 ---
 title: very good paper: abby begins her life
 publication_types:
-  - "0"
+  - "2"
 authors:
   - langston abby 
   - langston crystal
