@@ -13,4 +13,4 @@ image:
   preview_only: false
   caption: Abby contemplating the complicated Kings Creek.
 ---
-T﻿his is about my work out at Konza prairie.
+In this study, we measured bedrock incision rates on Kings Creek, at the Konza Prairie Biological Research Station. We measured incision rates on the channel bed and channel banks in both shale and limestone bedrock.
