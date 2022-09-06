@@ -2,7 +2,7 @@
 title: Abbey Marcotte
 role: former Master's student
 avatar_filename: avatar
-bio: graduated in 2020, now at Wageningen University, the Netherlands
+bio: ""
 social: []
 education:
   courses:
@@ -16,3 +16,4 @@ superuser: false
 user_groups:
   - Alumni
 ---
+Graduated with an M.S. in Geography from Kansas State University in 2020. Now pursuing a PhD at Wageningen University, the Netherlands.
