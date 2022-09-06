@@ -4,6 +4,9 @@ date: 2022-09-02T18:45:35.522Z
 summary: W﻿hat processes control bedrock valley wideing? Ask the flume.
 draft: false
 featured: false
+authors:
+  - admin
+  - Clay Robertson
 image:
   filename: featured.jpg
   focal_point: Smart
