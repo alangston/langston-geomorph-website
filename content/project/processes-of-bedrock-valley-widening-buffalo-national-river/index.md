@@ -9,7 +9,7 @@ authors:
   - Olivia Groeber
 image:
   filename: featured.jpg
-  focal_point: Smart
+  focal_point: Center
   preview_only: false
 ---
 Rivers shape landscapes by incising deep canyons and carving both wide and narrow valleys, determining where people live and where floodwaters go. Little is known about how, when, and why rivers carve wide vs. narrow valleys as they flow through landscapes where they can "touch" the adjoining valley walls. This NSF-funded project includes Dr. Jill Marshall, University of Arkansas as co-PI. 
