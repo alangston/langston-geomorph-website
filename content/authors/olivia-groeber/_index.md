@@ -2,8 +2,7 @@
 title: Olivia Groeber
 role: former Master's student
 avatar_filename: avatar.jpg
-bio: graduated with MS in Geography in 2022, now GIS analyst for the City of
-  Farmington, NM
+bio: ""
 social: []
 education:
   courses:
@@ -14,3 +13,4 @@ superuser: false
 user_groups:
   - Alumni
 ---
+Graduated with MS in Geography from Kansas State in 2022. She is now working as a GIS analyst for the City of Farmington, NM.
