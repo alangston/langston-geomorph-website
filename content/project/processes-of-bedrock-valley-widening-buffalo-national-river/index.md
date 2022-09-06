@@ -6,7 +6,7 @@ featured: false
 authors:
   - admin
 image:
-  filename: featured
+  filename: featured.JPG
   focal_point: Smart
   preview_only: false
 ---
