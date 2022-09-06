@@ -5,8 +5,10 @@ draft: false
 featured: false
 authors:
   - admin
+  - Clay Robertson
+  - Olivia Groeber
 image:
-  filename: featured.JPG
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
