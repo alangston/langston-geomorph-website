@@ -1,11 +1,10 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Visit to DRI Luminescence Laboratory in Reno, NV
 date: 2020-12-02
 image:
-  focal_point: 'top'
+  focal_point: top
 ---
-
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Abby Langston and graduate student Clay Robertson spent 6 weeks in the summer of 2022 working in the Desert Research Institute luminescence lab (DRILL) with collaborator Christina Neudorf.
 
 <!--more-->
 
