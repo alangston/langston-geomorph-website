@@ -2,6 +2,7 @@
 title: Visit to DRI Luminescence Laboratory in Reno, NV
 date: 2022-09-09T21:06:30.364Z
 image:
+  filename: featured.jpeg
   focal_point: top
 ---
 Abby Langston and graduate student Clay Robertson spent 6 weeks in the summer of 2022 working in the Desert Research Institute luminescence lab (DRILL) with collaborator Christina Neudorf.
