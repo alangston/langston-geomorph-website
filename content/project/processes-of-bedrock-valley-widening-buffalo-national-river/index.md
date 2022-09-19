@@ -8,9 +8,10 @@ authors:
   - Clay Robertson
   - Olivia Groeber
 image:
-  filename: ""
+  filename: featured.jpg
   focal_point: Center
   preview_only: false
+  caption: Buffalo River and 30 m tall cliffs.
 ---
 Rivers shape landscapes by incising deep canyons and carving both wide and narrow valleys, determining where people live and where floodwaters go. Little is known about how, when, and why rivers carve wide vs. narrow valleys as they flow through landscapes where they can "touch" the adjoining valley walls. This NSF-funded project includes Dr. Jill Marshall, University of Arkansas as co-PI. 
 
