@@ -1,7 +1,7 @@
 ---
 title: Moupyali Chakravarty
 role: PhD student
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 social: []
 education:
   courses:
