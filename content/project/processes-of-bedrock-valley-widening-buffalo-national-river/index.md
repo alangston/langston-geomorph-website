@@ -8,7 +8,7 @@ authors:
   - Clay Robertson
   - Olivia Groeber
 image:
-  filename: featured.jpg
+  filename: featured.JPG
   focal_point: Center
   preview_only: false
 ---
