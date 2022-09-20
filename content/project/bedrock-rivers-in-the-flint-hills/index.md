@@ -13,4 +13,4 @@ image:
   preview_only: false
   caption: Abby contemplating the complicated Kings Creek.
 ---
-We measured bedrock incision rates on Kings Creek, at the Konza Prairie Biological Research Station. We measured incision on the channel bed and channel banks  in both shale and limestone bedrock.
+We measured bedrock incision rates on Kings Creek, at the Konza Prairie Biological Research Station. We measured incision on the channel bed and channel banks by installing erosion pins in both shale and limestone bedrock. It's not too surprising that we found that shale bedrock erodes more quickly than limestone bedrock. What was surprising was our finding that shale erosion rates are not only dependent on the amount of stream discharge, but also depend on how much *slaking* or crumbling of the shale happened between large discharge events.
