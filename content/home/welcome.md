@@ -11,6 +11,8 @@ design:
   css_class: null
   background:
     image: kayak_cliff1.jpg
+    text_color_light: true
+    
 hero_media: kayakphoto.jpg
 ---
 <br>
