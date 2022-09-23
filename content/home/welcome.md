@@ -12,6 +12,7 @@ design:
   background:
     image: kayak_cliff1.jpg
     text_color_light: true
+    image_darken: 0.75
     
 hero_media: kayakphoto.jpg
 ---
