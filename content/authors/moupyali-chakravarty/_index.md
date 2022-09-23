@@ -2,6 +2,7 @@
 title: Moupyali Chakravarty
 role: PhD student
 avatar_filename: avatar.jpg
+  focal_point: "Top"
 social: []
 education:
   courses:
