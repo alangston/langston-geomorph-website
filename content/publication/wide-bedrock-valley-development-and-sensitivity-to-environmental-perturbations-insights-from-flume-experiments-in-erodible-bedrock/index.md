@@ -16,8 +16,6 @@ authors:
   - Robertson, CH
 author_notes:
   - Kansas State University
-  - Kansas State University
-
 publication: "*Earth Surface Processes and Landforms*(48)"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
