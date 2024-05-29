@@ -12,6 +12,7 @@ author_notes:
 doi: 10.1002/esp.5680
 pdf_url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/esp.5680
 publication: "*Earth Surface Processes and Landforms*"
+summary: (2023) *Earth Surface Processes and Landforms*
 draft: false
 featured: false
 image:
