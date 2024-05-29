@@ -1,23 +1,16 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: 
 slides: null
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2019GL085164
 publication_types:
   - "2"
 authors:
   - Langston Abigail L
   - Temme Arnaud J
 author_notes:
-  - Kansas State University
-  - Kansas State University
-publication: "*Geophysical Research Letters* (46)"
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Department of Geography and Geospatial Sciences, Kansas State University
+publication: "*Geophysical Research Letters*"
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
