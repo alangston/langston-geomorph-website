@@ -11,6 +11,7 @@ author_notes:
   - Department of Geography and Geospatial Sciences, Kansas State University
   - Department of Geography and Geospatial Sciences, Kansas State University
 publication: "*Journal of Geophysical Research - Earth Surface*"
+summary: (2024 - in review) *Journal of Geophysical Research - Earth Surface*
 draft: false
 featured: false
 image:
