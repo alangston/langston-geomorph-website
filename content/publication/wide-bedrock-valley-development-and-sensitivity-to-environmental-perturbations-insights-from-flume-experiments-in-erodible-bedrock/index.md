@@ -10,7 +10,8 @@ author_notes:
   - Department of Geography and Geospatial Sciences, Kansas State University
   - Department of Geography and Geospatial Sciences,  Kansas State University
 doi: 10.1002/esp.5680
-publication: "*Earth Surface Processes and Landforms*(48)"
+pdf_url: https://onlinelibrary.wiley.com/doi/epdf/10.1002/esp.5680
+publication: "*Earth Surface Processes and Landforms*"
 draft: false
 featured: false
 image:
