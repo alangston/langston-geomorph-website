@@ -20,7 +20,8 @@ author_notes:
   - Environmental Studies Department, Davidson College
   - Department of Geography and Geospatial Sciences, Kansas State University
 doi: 10.1017/qua.2023.16
-publication: "*Quaternary Research*(32)"
+publication: "*Quaternary Research*"
+summary: (2023) *Quaternary Research*
 draft: false
 featured: false
 image:
@@ -29,6 +30,3 @@ image:
   preview_only: false
 date: 2024-05-29T18:37:46.308Z
 ---
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
