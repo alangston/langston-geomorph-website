@@ -6,16 +6,18 @@ publication_types:
   - "2"
   - "3"
 authors:
-  - Langston
-  - Abigail L
-  - Neudorf
-  - CM
-  - Marcotte
-  - AL
-  - Rodrigues
-  - K
-  - Keen-Zebert
-  - A
+  - Langston Abigail L
+  - Neudorf CM
+  - Marcotte AL
+  - Rodrigues K
+  - Keen-Zebert A
+
+author_notes:
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Division of Earth and Ecosystem Sciences, Desert Research Institute
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Division of Earth and Ecosystem Sciences, Desert Research Institute
+  - Division of Earth and Ecosystem Sciences, Desert Research Institute
 publication: "*Boreas*"
 draft: false
 featured: false
