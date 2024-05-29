@@ -3,7 +3,7 @@ widget: hero
 widget_id: WELCOME
 headless: true
 weight: 10
-title: The HESTIA Lab
+title: Hydrology and Earth Surface Team In Action
 subtitle: Hydrology and Earth Surface Team In Action
 active: true
 design:
