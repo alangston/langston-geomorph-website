@@ -2,7 +2,6 @@
 title: Interpreting depositional environments from modern floodplain sediments
   using optically stimulated luminescence
 publication_types:
-  - "0"
   - "2"
   - "3"
 authors:
@@ -11,7 +10,6 @@ authors:
   - Marcotte AL
   - Rodrigues K
   - Keen-Zebert A
-
 author_notes:
   - Department of Geography and Geospatial Sciences, Kansas State University
   - Division of Earth and Ecosystem Sciences, Desert Research Institute
