@@ -17,4 +17,4 @@ hero_media: kayakphoto.jpg
 ---
 <br>
 
-Studying how rivers shape the Earth's surface over days to thousands of years at Department of Geography and Geospatial Sciences, Kansas State University. We aren't afraid to get our hands dirty and our feet wet!
+Studying how rivers shape the Earth's surface over days to thousands of years at the  Department of Geography and Geospatial Sciences, Kansas State University. We aren't afraid to get our hands dirty and our feet wet!
