@@ -10,7 +10,7 @@ author_notes:
   - Kansas State University
   - Kansas State University
 doi: 10.1002/esp.5680
-publication: "*Earth Surface Processes and Landforms*"
+publication: "*Earth Surface Processes and Landforms*(48)"
 draft: false
 featured: false
 image:
