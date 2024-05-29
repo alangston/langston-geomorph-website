@@ -7,13 +7,13 @@ publication_types:
   - "3"
 authors:
   - Langston
-  - Abigail L.
+  - Abigail L
   - Neudorf
-  - C.M.
+  - CM
   - Marcotte
-  - A.L.
+  - AL
   - Rodrigues
-  - K.
+  - K
   - Keen-Zebert
   - A
 publication: "*Boreas*"
