@@ -13,7 +13,7 @@ authors:
   - Marston L
 doi: 10.1016/j.jhydrol.2024.130704
 publication: "*Journal of Hydrology*"
-summary: (2023) *Journal of Hydrology*
+summary: (2024) *Journal of Hydrology*
 draft: false
 featured: false
 image:
