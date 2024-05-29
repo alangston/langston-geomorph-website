@@ -13,8 +13,8 @@ author_notes:
   - Department of Geography and Geospatial Sciences, Kansas State University
   - Department of Civil and Environmental Engineering, University of Illinois,
     Urbana-Champagne
-publication: "*Proceedings of the National Academy of Sciences*(118)"
-summary: ""
+publication: "*Proceedings of the National Academy of Sciences*"
+summary: (2021) *Proceedings of the National Academy of Sciences*
 url_dataset: ""
 url_project: ""
 publication_short: ""
