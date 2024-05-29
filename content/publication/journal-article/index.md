@@ -13,7 +13,7 @@ author_notes:
   - Division of Earth and Ecosystem Sciences, Desert Research Institute
   - Department of Geography and Geospatial Sciences, Kansas State University
 publication: "*Earth Surface Processes and Landforms*"
-summary: ""
+summary: (2021) *Earth Surface Processes and Landforms*
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -37,8 +37,4 @@ url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
