@@ -4,13 +4,19 @@ title: The role of lithology and climate on bedrock river incision and terrace
 publication_types:
   - "2"
 authors:
-  - Rodrigues K.
-  - Keen-Zebert A.
-  - Shepherd S.
-  - Hudson M.R.
-  - Bitting C.J.
-  - Johnson B.G.
-  - Langston Abigail L.
+  - Rodrigues K
+  - Keen-Zebert A
+  - Shepherd S
+  - Hudson MR
+  - Bitting CJ
+  - Johnson BG
+  - Langston Abigail L
+author_notes:
+  - Division of Earth and Ecosystem Sciences
+  - Desert Research Institute
+  - Reno
+  - Nevada
+  - USA
 doi: 10.1017/qua.2023.16
 publication: "*Quaternary Research*(32)"
 draft: false
