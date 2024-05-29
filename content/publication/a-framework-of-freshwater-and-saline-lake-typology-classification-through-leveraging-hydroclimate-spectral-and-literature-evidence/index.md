@@ -13,6 +13,7 @@ authors:
   - Marston L
 doi: 10.1016/j.jhydrol.2024.130704
 publication: "*Journal of Hydrology*"
+summary: (2023) *Journal of Hydrology*
 draft: false
 featured: false
 image:
@@ -21,6 +22,3 @@ image:
   preview_only: false
 date: 2024-05-29T18:39:48.991Z
 ---
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
