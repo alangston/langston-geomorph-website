@@ -17,6 +17,7 @@ author_notes:
   - Division of Earth and Ecosystem Sciences, Desert Research Institute
   - Division of Earth and Ecosystem Sciences, Desert Research Institute
 publication: "*Boreas*"
+summary: (2024 - in review) *Boreas*
 draft: false
 featured: false
 image:
