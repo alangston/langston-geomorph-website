@@ -5,19 +5,19 @@ publication_types:
   - "2"
 authors:
   - Ding
-  - M.
+  - M
   - Wang
-  - J.
+  - J
   - Song
-  - C.
+  - C
   - Sheng
-  - Y.
+  - Y
   - Hutchinson
-  - J.M.S.
+  - JMS
   - Langston
-  - Abigail L.
+  - Abigail L
   - Marston
-  - L.
+  - L
 doi: 10.1016/j.jhydrol.2024.130704
 publication: "*Journal of Hydrology*"
 draft: false
