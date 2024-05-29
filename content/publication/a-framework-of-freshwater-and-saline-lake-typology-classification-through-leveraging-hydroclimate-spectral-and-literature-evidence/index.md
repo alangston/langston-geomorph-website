@@ -4,20 +4,13 @@ title: A framework of freshwater and saline lake typology classification through
 publication_types:
   - "2"
 authors:
-  - Ding
-  - M
-  - Wang
-  - J
-  - Song
-  - C
-  - Sheng
-  - Y
-  - Hutchinson
-  - JMS
-  - Langston
-  - Abigail L
-  - Marston
-  - L
+  - Ding M
+  - Wang J
+  - Song C
+  - Sheng Y
+  - Hutchinson JMS
+  - Langston Abigail L
+  - Marston L
 doi: 10.1016/j.jhydrol.2024.130704
 publication: "*Journal of Hydrology*"
 draft: false
