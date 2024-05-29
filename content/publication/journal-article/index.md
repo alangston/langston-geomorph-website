@@ -9,9 +9,9 @@ authors:
   - Neudorf CM
   - Langston Abigail L
 author_notes:
-  - Kansas State University
-  - Desert Research Institute
-  - Kansas State University
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Division of Earth and Ecosystem Sciences, Desert Research Institute
+  - Department of Geography and Geospatial Sciences, Kansas State University
 publication: "*Earth Surface Processes and Landforms*"
 summary: ""
 url_dataset: ""
