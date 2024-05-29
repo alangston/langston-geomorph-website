@@ -4,10 +4,13 @@ title: " Wide bedrock valley development and sensitivity to environmental
 publication_types:
   - "2"
 authors:
-  - A.L.Langston
-  - C.H.Robertson
+  - Langston Abigail L
+  - Robertson CH
+author_notes:
+  - Kansas State University
+  - Kansas State University
 doi: 10.1002/esp.5680
-publication: Earth Surface Processes and Landforms
+publication: "*Earth Surface Processes and Landforms*"
 draft: false
 featured: false
 image:
