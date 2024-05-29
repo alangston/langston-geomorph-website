@@ -14,9 +14,16 @@ authors:
 author_notes:
   - Division of Earth and Ecosystem Sciences
   - Desert Research Institute
-  - Reno
-  - Nevada
-  - USA
+  - Division of Earth and Ecosystem Sciences
+  - Desert Research Institute
+  - Department of Geoscience
+  - Auburn University
+  - U.S. Geological Survey
+  - National Park Service
+  - Environmental Studies Department
+  - Davidson College
+  - Department of Geography and Geospatial Sciences
+  - Kansas State University
 doi: 10.1017/qua.2023.16
 publication: "*Quaternary Research*(32)"
 draft: false
