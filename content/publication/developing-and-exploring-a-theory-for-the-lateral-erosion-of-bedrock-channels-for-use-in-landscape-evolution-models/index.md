@@ -10,7 +10,8 @@ author_notes:
   - Department of Geography and Geospatial Sciences, Kansas State University
   - Department of Geological Sciences, University of Colorado
 doi: https://doi.org/10.5194/esurf-6-1-2018
-publication: "*Earth Surface Dynamics*(5)"
+publication: "*Earth Surface Dynamics*"
+summary: (2018) *Earth Surface Dynamics*
 draft: false
 featured: false
 image:
