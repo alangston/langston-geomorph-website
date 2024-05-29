@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: The HESTIA Lab
 subtitle: Hydrology and Earth Surface Team In Action
+active: true
 design:
   columns: "1"
   css_style: null
