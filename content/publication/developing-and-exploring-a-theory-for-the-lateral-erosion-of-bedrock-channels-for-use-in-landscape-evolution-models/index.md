@@ -7,8 +7,8 @@ authors:
   - Langston Abigail L 
   - Tucker GE
 author_notes:
-  - Kansas State University
-  - University of Colorado
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Department of Geological Sciences, University of Colorado
 doi: https://doi.org/10.5194/esurf-6-1-2018
 publication: "*Earth Surface Dynamics*(5)"
 draft: false
