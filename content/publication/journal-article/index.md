@@ -1,12 +1,5 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
+abstract: ""
 slides: null
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 publication_types:
@@ -20,9 +13,7 @@ author_notes:
   - Desert Research Institute
   - Kansas State University
 publication: "*Earth Surface Processes and Landforms*"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
@@ -41,7 +32,7 @@ image:
   preview_only: false
 date: 2021-09-01T17:51:00.000Z
 url_slides: ""
-publishDate: 2021-01-01T00:00:00Z
+publishDate: 2021-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
