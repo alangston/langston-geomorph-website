@@ -11,6 +11,7 @@ author_notes:
   - Department of Geography and Geospatial Sciences, Kansas State University
 doi: https://doi.org/10.1016/j.geomorph.2018.11.015
 publication: "*Geomorphology*"
+summary: (2019) *Geomorphology*
 draft: false
 featured: false
 image:
