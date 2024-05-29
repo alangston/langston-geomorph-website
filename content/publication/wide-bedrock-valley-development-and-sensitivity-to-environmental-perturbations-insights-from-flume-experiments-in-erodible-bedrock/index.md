@@ -7,8 +7,8 @@ authors:
   - Langston Abigail L
   - Robertson CH
 author_notes:
-  - Kansas State University
-  - Kansas State University
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Department of Geography and Geospatial Sciences,  Kansas State University
 doi: 10.1002/esp.5680
 publication: "*Earth Surface Processes and Landforms*(48)"
 draft: false
