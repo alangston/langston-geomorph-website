@@ -8,8 +8,8 @@ authors:
   - Groeber OG
   - Langston Abigail L
 author_notes:
-  - Department of Geography and Geospatial Sciences Kansas State University
-  - Department of Geography and Geospatial Sciences Kansas State University
+  - Department of Geography and Geospatial Sciences, Kansas State University
+  - Department of Geography and Geospatial Sciences, Kansas State University
 publication: "*Journal of Geophysical Research - Earth Surface*"
 draft: false
 featured: false
