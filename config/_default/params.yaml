@@ -18,15 +18,28 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Langston Research Group website'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
     google: ''
     baidu: ''
+# Contact (edit or remove options as required)
 
+email: alangston@ksu.edu
+phone: 785-532-6727
+address:
+  street: 1002 Seaton Hall Kansas State University, 920 N. Martin Luther King Jr. Drive
+  city: Manhattan
+  region: KS
+  postcode: '66506'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '39.189'
+  longitude: '-96.582'
 # Site header
 
 header:
