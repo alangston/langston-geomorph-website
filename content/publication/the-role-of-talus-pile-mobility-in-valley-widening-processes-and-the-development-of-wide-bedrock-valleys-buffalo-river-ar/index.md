@@ -1,11 +1,11 @@
 ---
 title: The Role of Talus Pile Mobility in Valley Widening Processes and the
-  Development of Wide Bedrock Valleys, Buffalo River, AR.
+  Development of Wide Bedrock Valleys, Buffalo River, AR
 publication_types:
   - "2"
   - "3"
 authors:
-  - Groeber O.G.
+  - Groeber OG
   - Langston Abigail L
 publication: "*Journal of Geophysical Research - Earth Surface*"
 draft: false
