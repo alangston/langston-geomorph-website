@@ -18,6 +18,6 @@ hero_media: kayakphoto.jpg
 ---
 <br>
 
-In HESTIA lab at Kansas State University, we study aspects of hydrology, sediment transport, and geomorphology to learn how rivers shape the Earth's surface over days to thousands of years.
+In the HESTIA lab at Kansas State University, we study aspects of hydrology, sediment transport, and geomorphology to learn how rivers shape the Earth's surface over days to thousands of years.
 
 We aren't afraid to get our hands dirty and our feet wet!
