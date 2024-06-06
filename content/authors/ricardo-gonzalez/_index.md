@@ -1,10 +1,10 @@
 ---
 title: Ricardo Gonzalez
 role: undergraduate research assistant
-draft: true
+avatar_filename: avatar
+draft: false
 user_groups:
   - Alumni
-avatar_filename: avatar
 social: []
 superuser: false
 ---
