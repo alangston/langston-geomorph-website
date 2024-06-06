@@ -1,6 +1,6 @@
 ---
 title: Abbey Marcotte
-role: former Master's student
+role: master's student
 avatar_filename: avatar
 bio: ""
 social: []
