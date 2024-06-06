@@ -5,7 +5,7 @@ date: 2024-06-06T15:10:56.519Z
 draft: false
 featured: false
 authors:
-  - admin
+  - admin, Moupyali Chakravarty
 image:
   filename: featured
   focal_point: Smart
