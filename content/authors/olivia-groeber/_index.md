@@ -1,6 +1,6 @@
 ---
 title: Olivia Groeber
-role: former Master's student
+role: master's student
 avatar_filename: avatar.jpg
 bio: ""
 social: []
